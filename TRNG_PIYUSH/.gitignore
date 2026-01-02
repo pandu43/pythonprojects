@@ -1,0 +1,9 @@
+.venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+Result/Entropy
+Result/NIST_Result
+Result/RNG
+Result/TRAN_result

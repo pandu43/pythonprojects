@@ -14,7 +14,7 @@ fi
 export PYTHONPATH=$PYTHONPATH:$(pwd)/src
 
 # Run the harness GUI
-python scripts/harness_gui.py
+python TRNG_PIYUSH/scripts/harness_gui_all.py
 
 # Keep window open if double-clicked (optional, mostly for batch files, but useful if run in a terminal that closes)
 read -p "Press enter to continue..."
